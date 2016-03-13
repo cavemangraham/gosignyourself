@@ -1,28 +1,9 @@
-== README
+== GoSignYourself
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+What We Aimed To Accomplish:
+  * A dynamic web application that allows users to learn about sign language and test their knowledge in an interactive experience
 
-Things you may want to cover:
+  * Allow the user to see the result of their signing in real-time
+  
+  ![GoSignYourself](https://github.com/cavemangraham/gosignyourself/app/assets/images/gosignyourselfimage.png?raw=true "Go Sign Yourself In Action")
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
