@@ -5,5 +5,5 @@ What We Aimed To Accomplish:
 
   * Allow the user to see the result of their signing in real-time
   
-  ![GoSignYourself](https://github.com/cavemangraham/gosignyourself/app/assets/images/gosignyourselfimage.png?raw=true "Go Sign Yourself In Action")
+  ![GoSignYourself](https://github.com/cavemangraham/gosignyourself/app/assets/images/gosignyourselfscreenshot.png?raw=true "Go Sign Yourself In Action")
 
