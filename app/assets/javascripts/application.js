@@ -12,6 +12,10 @@
 //
 //= require jquery
 //= require jquery_ujs
+// RailsAjax
+//= require jquery.history
+//= require jquery.rails-ajax
+//= require RailsAjax-Config
 //= require turbolinks
 //= require_tree .
 //= require jquery
